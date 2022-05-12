@@ -3,18 +3,29 @@
 # Enc-py3
 
 $ pkg update && upgrade  
+
 $ termux-setup-storage  
+
 $ pkg install python 
+
 $ pkg install python2
+
 $ pkg install git  
+
 $ pip install bs4  
+
 $ pip install requests  
+
 $ pip install mechanize  
-$ pip install futures 
+
+$ pip install futures
+
 $ cd $HOME
+
 $ rm -rf Enc-py3 
+
 $ git https://github.com//Enc-py3
 # ↦Run Script
-$ cd Enc-py3  
+$ cd Enc-py3 
 $ git pull  
 $ python py3.py
