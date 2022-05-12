@@ -14,7 +14,7 @@ $ pip install futures
 $ cd $HOME
 $ rm -rf Enc-py3 
 $ git https://github.com//Enc-py3
-# ↦ Run Script
+# ↦Run Script
 $ cd Enc-py3  
 $ git pull  
 $ python py3.py
