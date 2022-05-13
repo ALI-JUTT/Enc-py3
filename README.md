@@ -24,7 +24,7 @@ $ cd $HOME
 
 $ rm -rf Enc-py3 
 
-$ git https://github.com//Enc-py3
+$ git https://github.com/ALI-JUTT/Enc-py3
 # ↦Run Script
 $ cd Enc-py3 
 $ git pull  
